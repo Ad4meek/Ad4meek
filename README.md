@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Filip Bureš</h1>
+<h1 align="center">Hi 👋, I'm Adam Erben</h1>
 
 - 👀 I’m interested in Mountain Biking
 - 🌱 I’m currently learning Java, JS
