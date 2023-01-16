@@ -3,7 +3,6 @@
 -  I’m interested in **Mountain Biking**
 -  I’m currently learning **Java, JS** 
 -  I’m studying at [**SPSMB**](https://www.spsmb.cz/)
--  I’m working on [**Pokemon Game**](https://github.com/Ad4meek/Pokemon-Game)
 
 ## Contact
  
